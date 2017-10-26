@@ -8,7 +8,7 @@
  *
  * CODEX REF
  * https://developer.wordpress.org/themes/functionality/post-formats/
- * 
+ *
  * @author
  * @copyright
  * @link
@@ -17,7 +17,9 @@
  * @since
  * @version
 **/
+
 ?>
+
 
 <article>
     <section id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
